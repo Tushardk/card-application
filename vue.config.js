@@ -1,6 +1,3 @@
 module.exports = {
-    outputDir: "docs",
-    publicPath: process.env.NODE_ENV === 'production'
-        ? '/aspire-test-application/'
-        : '/'
+    outputDir: "docs"
 }
